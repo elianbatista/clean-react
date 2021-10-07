@@ -1,1 +1,2 @@
 [![Build Status](https://app.travis-ci.com/elianbatista/clean-react.svg?branch=master)](https://app.travis-ci.com/elianbatista/clean-react)
+[![Coverage Status](https://coveralls.io/repos/github/elianbatista/clean-react/badge.svg?branch=master)](https://coveralls.io/github/elianbatista/clean-react?branch=master)
